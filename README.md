@@ -84,6 +84,4 @@ Deleted files:
 - Make sure to run the script from the same directory or provide the correct path to ensure accurate monitoring.
 - Regularly running the script helps maintain up-to-date integrity records.
 
-## Author
 
-Monica Remola.K
